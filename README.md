@@ -1,5 +1,5 @@
 # AUT_Machine_Learning
-This Repository contains my answers to Machine Learning assignments of Amirkabir University of Technology. Each assignment includes questions, codes and report.  
+This Repository contains my answers to Machine Learning assignments of Amirkabir University of Technology. Each assignment includes questions, codes and a report.  
 
 Professor: [Dr. Ehsan Nazerfard](https://ceit.aut.ac.ir/~nazerfard/main.htm)  
 
